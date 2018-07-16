@@ -1,0 +1,46 @@
+h1 {
+  font-size: 55;
+  color: Lavender;
+  text-align: center;
+  border-color: Lavender;
+  border-style: double;
+  border-width: 10px;
+  text-shadow: 2px 2px 4px MediumPurple 
+}
+
+body {
+  background: linear-gradient(to right, #3399ff 0%, #cc99ff 74%);
+}
+
+#bio {
+  color: #347cef;
+  text-align: center;
+  font-size: 21px;
+  background-color: #7ce287;
+  border-color: Lavender;
+  border-style: double;
+  border-width: 10px;
+  text-shadow: 2px 2px 4px Lavender
+}
+
+#pets {
+  color: #ffff00;
+  text-align: center;
+  font-size: 35px;
+  background-color: #eda6bd;
+  border-color: Lavender;
+  border-style: double;
+  border-width: 10px;
+  text-shadow: 2px 2px 4px Lavender
+}
+
+#hobies {
+  color: HotPink;
+  text-align: center;
+  font-size: 21px;
+  background-color: LightSteelBlue;
+  border-color: Lavender;
+  border-style: double;
+  border-width: 10px;
+  text-shadow: 2px 2px 4px Lavender
+}
